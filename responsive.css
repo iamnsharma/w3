@@ -1,0 +1,137 @@
+@media (max-width:800px) {
+    .leftheader ul {
+        display: none;
+    }
+
+    .img {
+        width: 61px;
+        height: 56px;
+        cursor: pointer;
+        margin-top: 0;
+        margin-left: 7px;
+    }
+
+    .hidden {
+        display: flex;
+        justify-content: center;
+        width: 90px;
+    }
+    .leftheader a:hover {
+        background-color: #04AA6D !important;
+        color: white;
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+
+
+    .fa-caret-down {
+        padding-top: 3px;
+    }
+
+    .search1 {
+        display: none;
+    }
+
+    .icon i {
+        position: relative;
+        left: 0;
+        display: block;
+        padding-left: 8px;
+    }
+
+    .image {
+        margin-left: 30px;
+    }
+
+    .rightheader {
+        display: none;
+    }
+
+    .topheader {
+        width: 67%;
+        position: fixed !important;
+        top: 0;
+        z-index: 999;
+    }
+
+     .svg {
+        display: block;
+    }
+
+    .user-profile-icon {
+        position: relative;
+        padding-left: 48px;
+        height: 26px;
+    }
+
+    .user-progress {
+        position: absolute;
+        top: -8px;
+        right: -15px;
+    } 
+
+    .menu {
+        position: fixed !important;
+        top: 56px;
+    }
+
+    .herosection {
+        background-image: none, url(images/background_in_space.png);
+        background-position: center center;
+    }
+    h1{
+        font-size: 54px;
+    }
+    .container{
+        height: auto;
+        display: grid;
+        grid-template-columns: 100%;
+    }
+    .leftcontent{
+        width: 100%;
+    }
+    .rightcontent{
+        width: 100%;
+    }
+    .container1{
+        height: auto;
+        display: block;
+    }
+    .leftcontent{
+        width: 100%;
+    }
+    .rightcontent{
+        width: 100%;
+    }
+    .container2{
+        height: auto;
+        display: block;
+    }
+    .leftcontent{
+        width: 100%;
+    }
+    .rightcontent{
+        width: 100%;
+    }
+    .container3{
+        height: auto;
+        display: block;
+    }
+    .leftcontent{
+        width: 100%;
+    }
+    .rightcontent{
+        width: 100%;
+    }
+    .container4{
+        height: auto;
+        display: block;
+    }
+    .leftcontent{
+        width: 100%;
+    }
+    .rightcontent{
+        width: 100%;
+    }
+
+}
